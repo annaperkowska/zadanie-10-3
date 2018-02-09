@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+	order: 1px solid green;
+}
+#carousel {
+	width: 400px;
+	height: 400px;
+	margin: 0 auto;
+
+}
+#carousel ul {
+	padding: 0;
+	width: 2000px;
+}
+#carousel ul li {
+	list-style-type: none;
+	width: 400px;
+	float: left;
+}
